@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Large media files (if any)
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.tar
